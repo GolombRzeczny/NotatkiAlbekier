@@ -1,0 +1,2 @@
+# NotatkiAlbekier
+Repozytorium z notatkami
