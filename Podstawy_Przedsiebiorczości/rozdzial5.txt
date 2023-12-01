@@ -52,5 +52,29 @@ Podstawy Przesiebiorczości
 
     Ustawa o swobodzie dział gospod. 
 
-  Temat: Biznes plan.
+  Temat: Formy organizacyjno prawne przesiebiorstwa.
+    
+    1. Struktura podmiotów gospodarki:
+      
+      - Jedno osobowe działalności
+      - spółki 
 
+    2. Spółki:
+      
+      A) Cywilne.
+
+      B) Handlowe:
+        
+        a) Osobowe:
+          
+          - jawne.
+          - partnerskie.
+          - Komandytowe.
+          - Komandytowe akcyjne.
+
+        b) Kapitałowe:
+          
+          - Z ograniczoną odpowiezialnąścią (z.o.o).
+          - Akcyjne.
+
+    
