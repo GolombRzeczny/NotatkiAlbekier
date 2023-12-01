@@ -1,0 +1,41 @@
+Bazy danych
+
+  Temat: Wprowadzenie do baz danych
+    
+
+    1. Definicje.
+
+      1. Baza danych to uporządkowany zbiór informacji, czyli danych, przechowywany w systemie komputerowym.
+      2. Bazą danych steruje zwykle system zarządzania danymi. (DataBase Management System[DBMS]).
+
+    2. Przykałdy baz danych:
+   
+      1. Powszechny elektroniczny system ewidencji ludności (Pesel).
+      2. Systemy obsługi administracji (ZUS. NFZ).
+      3. Zarządzania magazynem, hurtownią
+
+    3. Podział baz danych.
+    
+      a) Kartotekowa (Jedna tabela).
+      b) Hierarchiczna
+      c) Sieciowa
+      d) Relacyjna (Wiele tabel powiązanych ze sobą).
+      e) Obiektowe
+    
+    4. Architektura baz danych.
+
+      a) Klient-Server
+       -Dwuwarstwowa{
+          Serwer bazy danych
+          Klient
+        }
+
+        -Trzywarstwowa{
+          Interfejs użytkownika
+          Logika przetwarzania
+          Baza danych
+       }
+
+  Temat: Etapy tworzenia bazy danych.
+    
+    

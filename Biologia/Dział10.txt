@@ -1,0 +1,46 @@
+Biologia
+
+  Temat: Budowa i działanie narządu wzroku
+    
+    1. Receptory:
+      
+      - Eksteroreceptory(Bodźce z zewnątrz)
+      - Interoreceptory(Bodźce z wewnątrz)
+    2. Rodzaje:
+      
+      - Fotoreceptory
+      - Termoreceptory
+      - Mechanoreceptory
+      - Chemoreceptory
+      - Nocyreceptory
+
+    3. Budowa Oka:
+      
+      - Rogówka
+      - Komory Oka
+      - Spojówka
+      - Ciało szkliste 
+      - Tęczówka
+      - Źrenica
+      - Soczewka
+      - Nerw Wzrokowy
+      - Plamka
+      - Siatkówka
+      - Twardówka
+      - Naczyniówka
+
+  T: Wady i choroby narządu wzroku
+    
+    1. Wady:
+      
+      - Krótkowzroczność (Wydłużona gałka oczna) wada -
+      - Dalekowzroczność (Zbyt krótka gałka oczna) wada +
+      - Astygmatyzm (Nieskupianie promieni światła)
+
+    2. Choroby:
+
+      - Zaćma 
+      - Zwyrodnienie plamki
+      - Jaskra
+      - Daltonizm
+

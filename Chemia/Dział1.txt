@@ -1,0 +1,34 @@
+Chemia
+
+  T: Mydła
+    
+    Ch3COOH - kwas etanowy 
+    C2H5OH + 02 --> CH3COOH + H2O
+
+    wzór ogólny CnH2n+1COOH
+    C17H35COOH - kwas stearynowy
+    C15H31COOH - kwas palitynopy
+    C17H33COOH - Kwas oleinowy
+
+    Kwasy reagują z wodorotlenkami, tworząc sole. 
+
+    KOH - wodorotlenek potasu 
+    KOH + H2O = Zasada potasowa
+    CH3COOH + KOH --> CH3COOK + H2O (Octan potasu)
+
+    C17H35COOH + KOH --> C17H35COOK (Sterynian potasu)
+    C15H31COOH + NaOH --> C15H31COONa (Palmitynian sodu)
+    Mydła to sole wyższych kwasów tłuszczowych (Kwasu stearynowego i kwasu palitynowego )
+
+
+    
+    T: Estry, czyli produkty reakcji alkocholi z kwasami.
+      
+      Wanilia != Wanilina 
+     Naturalne   Sztuczne 
+
+      1. Budowa estrów
+        
+        Grupa estrowa i reszt weglowodorowych
+        CH3COOH (Kwas octowy) + C2H5OH (Etanol) --> CH3COOC2H5 + H2O 
+

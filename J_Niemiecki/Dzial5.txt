@@ -1,0 +1,133 @@
+Język Niemiecki
+
+  T: In der stadt
+
+    Z.4
+      
+      Dialog{
+        
+        A: Was gibt's in der Nȁhe deines Hauses?
+        B: In der nȁhe befindet sich eine Bibliothek, ein Park und ein Kino.
+        A: An meiner Strasse gibt es kein Kino. Wo triffst du deine Freunde?
+        B: Am meisten treffe ich sie auf eine, Sportplatz.
+        B: Ich treffe mich mit meinen Freunden im Park. Wir fahren Rad und skaterborden
+        
+      }
+
+      Z.5
+      
+        1. D
+        2. A  
+        3. B
+  
+  T:
+
+    1. stopniowanie 
+
+      - Alt, ȁlter, am ȁltesten (Stary)
+      - groß, grȍßer, am grȍßten (Duży)
+      - klein, kleiner, am kleinsten (Mały)
+      - jung, jȕnger, am jungsten (Młody)
+      - hoch, hȍher, am hȍchsten (Wysoki)
+      - arm, ȁrmer, am ȁrmsten (Biedny)
+      - schnell, schneller, am schnellsten (Szybko)
+    
+    Wyjątki:
+      
+      - gern, lieber, am liebsten (Chetnie)
+      - gut, besser, am besten (Dobry)
+      - viel, mehr, am meisten (Dużo)
+      - oft, hȁulfiger, am hȁufigsten (Często) 
+      - nah, nȁher, am nȁchsten (Blisko)
+      - dunkel, dunkler, am dunkelsten (Ciemno)
+      - Teuer, teurer, am teursten (Drogi)
+
+    Ćwiczenie 3.
+      
+      1. grȍßer
+      2. ȁltesten  
+      3. groß
+      4. Teurer
+      5. glȕklisten 
+      6. besser
+      7. hȁulfiger 
+      8. hȍher 
+
+  T: Orientierung im Stadtzentrum.
+
+    1. Słownictwo.
+
+      Nach links/rechts gehen/fahren - Iść/Jechać na lewo/prawo.
+      geh,geht,gehen Sie- Idź, niech idzie, niech Pan/i/stwo idzie/idą
+      bis zur Kreugzung - Do krzyżowania
+      Ȕber die Strasse - Przez ulice
+      um die Ecke - na rogu
+      durch den park - przez park
+      geh geradeaus - idź prosto
+      Mit dem taxi fahren - Jechać taksówką 
+      Fahr Linie 13 zwei Holtestellen - Jade linią 13 2 przystanki
+
+    z. 6 
+    
+    Dialog 1;
+      
+      A: Wie komme ich zum Einkaufszentrum?
+      B: Es is weit vom heir. Du musst zwei Haltestellen mit dem Bus fahren.
+      A: Danke schȍn.
+
+    Dialog 2;
+
+      A: Wie komme ich zum Krankehaus?
+      B: Du musst ȕber dem Platz und dem an der Kreugzung nach links gehen.
+
+  T: Jetzt wird's praktish
+
+    1.
+      
+      Die ausfahrt - zjazd
+      Flughafen - lotnisko
+      Rettunggsgasse - Korytarz życia
+      Richtgeschwindigkeit - predkość zalecana
+      Der stau - korek
+      Autobahn - autostrada
+      Einbahnstraßen - droga jednokierunkowa
+      Unfall - wypadek
+      erlaubt - dozwolone
+      verboten - zakazane   
+      Rauchen ist verboten - palenie jest zakazane
+      Nässe - mokre
+      Beinässe - przy mokrej 
+      sauber - czyste
+      schmutzig/dreckig - brudne
+      ebenfalls - wzajemnie
+
+  T: ich habe schmercerzen.
+
+    1. Körpertaibe
+      
+      - der Kopf, die Köpfe - Głowa 
+      - der Bauch, die Bäushe - brzuch
+      - der Hals, dia Hälse - szyja
+      - der Bein, die beine - Nogi
+      - der Zahn, die Zähne - ząb 
+
+    Ich habe adduktoren schmerzen - mam ból przywodzicieli.
+    Mein Bein tut mir weh - boli mnie noga
+    Meine Zähne tun mir weh - bolą mnie zeby
+
+    Z. 4.
+
+      A. Wie fühlst du dich?
+      B. Nicht gut. Ich habe Halsschmerzen.
+      A. Warum denn?
+      B: Ich habe kaltes wasser getrunken.
+
+      A. Was hast du denn?
+      B. es gehst mir nich gut, ich habe Rückenschmerzen.
+      A. was ist passiert?
+      B. Ich habe schwere Taschen getragen 
+
+      A. Wie fühlst du dich?
+      B. Nicht gut. Meine Beine tun mir weh.
+      A. Warum Denn?
+      B. Ich habe viele Stunden gewardern
