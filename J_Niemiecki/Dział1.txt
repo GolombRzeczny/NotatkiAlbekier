@@ -7,4 +7,11 @@ Język Niemiecki
 
     z.1 Laura
 
+    danken für - Dziękuje za...
+    Ich danke für die hilfe - Dziękuje za pomoc
+    Wofür dankst du? - za co dziękujesz?
+    Fragen nach - pytać o coś
+    Wonach fragst du? - o co pytasz?
+    sprechen über - mówić o...
+    Worüber spruchst du? - o czym mówisz?
 
