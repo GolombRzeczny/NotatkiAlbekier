@@ -1,4 +1,59 @@
 Biologia
   
   T: Budowa i rola układu hormonalnego.
+    
+    Układ Hormonalny:
+      
+      a) Przysadzka
+        - Hormon Wzrostu
+          - Stymuluje wzrost organizmu.
 
+        - Prolaktyna
+          - Hamuje owulacje
+
+        - Hormony tropowe
+          - pobudzają inne hormony do pracy.
+      
+      b) Szyszynka
+        - Melatonina
+          - Reguluje rytm snu
+
+      c) Tarczyca
+        - Kalcytonina
+          - Zmiejsza uwalnianie wapnia z kości
+
+        - Tyroksyna i trójjodotyronina
+          - Pobudzają metabolizm
+
+      d) Przytarczyca
+        - Parathormon
+          - Zwieksza uwalnianie wapnia z kości
+
+      e) Grasica
+        - Tymozyna
+          - Przyśpiesza dojrzewanie limfocytów T.
+
+      f) Nadnercza
+        - Adrenalina
+          - Przyśpiesza prace serca i zwieksza steżenie glukozy w krwi.
+
+        - Kortyzol
+          - Zwieksza steżenie glukozy we krwi, działa przeciwzapalnie, Obniża odporność organizmu.
+
+      g) Trzustka
+        - Insulina
+          - Zmiejsza steżenie glukozy w krwi i odkłada ją w formie glikogenu w wądrobie.
+
+        - Glukagon
+          - Uwalnia glukoze z wądroby
+
+      h) Jądra
+        - Testosteron
+          - Odpowiada za rozwój męskich cech
+
+      i) Jajniki
+        - Estrogen
+          - Powoduje rozwój damskich cech
+
+        - Progesteron
+          - odpowiada za cykl miesiączkowy i prawidłowy przebieg ciąży.
