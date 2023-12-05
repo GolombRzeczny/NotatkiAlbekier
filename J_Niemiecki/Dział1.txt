@@ -15,3 +15,10 @@ Język Niemiecki
     sprechen über - mówić o...
     Worüber spruchst du? - o czym mówisz?
 
+  T: Imperativ - tryb rozkazujący 
+    
+    1. geh im park spazieren!
+    2. lüftet das zimmer!
+    3. Trinken Sie vie Mineralwasser!
+
+

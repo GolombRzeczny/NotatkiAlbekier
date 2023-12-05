@@ -37,4 +37,17 @@ Angielki w Informatyce
     
   Subject: IT workplace rules.
     
+    6.
+    
+      
+      Can: 
+        
+        I - send emails
+        I - Can install software 
+        L - Can work from home 
 
+      Can't:
+
+        L&I - can't Call people 
+        L - Can't install software 
+      
