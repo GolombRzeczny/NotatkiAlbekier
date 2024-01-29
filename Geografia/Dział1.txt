@@ -211,3 +211,33 @@ Geografia
       - Funkcje przemysłowe
       - Funkcje Komunalne
       - Funkcje rolnicze
+
+  Temat: Ludność i Urbanizacja.
+
+    1. Liczba ludości polski i jej zmianny. 38 3800 000 (2019)
+    2. Podział Administracyjny Polski. W polsce obecnie wystepuje trójstopniowy podział administracyjny:
+      
+      - Wojewódstwo (16)
+      - Powiat (380)
+      - Gmina (2477) 
+
+
+    3. Wojewódstwa:
+      
+      1. Dolnośląskie - Wrocław 
+      2. Opolskie - Opole 
+      3. Śląskie - Katowice
+      4. Małopolskie - Kraków
+      5. Podlaskie - Białystok
+      6. Świętokrzyskie - Kielce
+      7. Lubelskie -Lublin
+      8. Lubuskie - Gorzów Wielkopolski i Zielona góra
+      9. Warmińsko-Mazurskie - Olsztyn
+      10. Pomorskie - Gdańsk
+      11. Zachodnio pomorskie - Szczecin 
+      12. Wielkopolskie - Poznań
+      13. Podkarpackie - Rzeszów
+      14. Mazowieckie - Warszawa 
+      15. Kujawsko Pomorskie - Bydgoszcz i Toruń
+      16. Łódskie - Łódź
+
