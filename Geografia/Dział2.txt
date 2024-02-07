@@ -1,0 +1,39 @@
+Geografia
+
+  Temat: Romieszczenie ludności w polsce.
+
+    1. Gęstość zaludnienia to liczba ludności na 1km2 
+    2. rozmieszczenie ludności w polsce jest nierównomierne 
+    3. Najbardziej i najmniej zaludnione wojewódstwa:
+      
+      najwieksza:
+        1. Śląskie - Katowice 
+        2. Małopolskie - Kraków
+        3. Mazowieckie - Warszawa 
+        4. Dolnośląskie - Wrocław
+        5. Łódskie - Łódź
+
+      Najsłabiej:
+        1. Podlaskie - Białystok
+        2. Warmińsko-Mazurskie - Olsztyn 
+        3. Lubuskie - Zielona Góra i Gorzów Wielkopolski
+        4. Zachodnio Pomorskie - Szczecin
+        5. Lubelskie - Lublin
+
+    4. Czynniki wpływające na rozmieszczenie ludności w polsce:
+      
+      a) Przyrodnicze:
+        - ukształtowanie powierzchni
+        - warunki klimatyczne 
+        - warunki wodne
+
+      b) historyczne: 
+        - Wpływ zaborów
+        - zmiany granic państwowych
+        - migracje i przymusowe przesiedlenia ludności
+
+      c) społeczno ekonomiczne:
+        - Rozwój przemysłu 
+        - rozwój miast 
+        - dostepność usług 
+
