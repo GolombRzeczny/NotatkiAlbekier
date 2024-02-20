@@ -5,4 +5,38 @@ Chemia
     1. Aminokwasy to pochodne kwasów karboksylowych. ich cząsteczki oprócz grupy karboksylowej -COOH zawierają grupe aminową -NH2
     2. Wzór ogólny 
     R-CH(NH2)-COOH 
+    R - atom wodoru lub grupa weglowodorowa np. alkilowa, arylowa.
+    3. w cząsteczce najprostszego aminokwasu, który jest pochodną kwasu etanowego, jeden z atomów wodoru w grupie metylowej -CH3 zastąpiono grupą aminową -NH2.
+      
+      - Kwas Karboksylowy: Kwas etanowy.
+      - Aminokwas: glicyna (Kwas aminoetanowy).
 
+    4. Nazewnictwo aminokwasów - Nazwy systematyczne aminokwasów tworzy się przez dodanie do nazwy systematycznej
+       odpowiedniego kwasu karboksylowego przedrostka amino-, np. H2N-CH2-COOH - kwas aminoetanowy.
+
+    5. Aminokwasy białkowe - podział:
+      
+      - 11 to aminokwasy endogenne, czyli takie, które mogą powstawać w organizmię, np. alanina, seryna, kwas glutaminowy, kwas asparaginowy.
+      - 9 to aminokwasy egzogenne, czyli takie które powinny być dostarczane do organizmu wraz z pokarmem, np. fenyloalanina, metionina, leucyna, tryptofan.
+
+    6. w przypadku aminokwasów białkowych najcześciej stosuje się nazwy zwyczajowe. Dla uproszczenia zapisu tych nazw stosuje się międzynarodowe 3 literowe kody:
+       Glicyna - Gly 
+       Kwas glutaminowy - Glu 
+       Tyrozyna - Tyr 
+
+    7.  Właściwości aminokwasów.
+      
+      - Badanie właściwości kwasu aminoetanowego.
+        
+        a) Obserwacje:
+          
+          - Krystaliczna substancja stała 
+          - Dobrze rozpuszczalny w wodzie 
+          - Odczyn obojętny
+          - związek amfoteryczny - może reagować z zasadami i kwasami.
+          - Bezwonna
+          - Bezbarwna 
+        
+    
+    8. Co powstaje w wyniku połoczenia dwóch aminokwasów?: w wyniku połączenia dwóch aminokwasów jest dipetyd. wiązanie peptydowe.
+    9. Aminokwasy ulegają reakcji kondensacji tworząc peptydy. 

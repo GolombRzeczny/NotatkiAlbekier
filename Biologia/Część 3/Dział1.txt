@@ -1,7 +1,37 @@
 Biologia
   
-  Temat: Chromosomy 
+  Temat: Gen i Genom
     
     DNA - Kwas deoksyrybonukleinowy 
     RNA - Kwas Rybonukleinowy 
+  
+  Temat: Kod genetyczny.
+    
+     Kod Chromosomu - ATGCCAT 
+     
+     1. cechy kodu genetycznego:
+      - Kod jest trójkowy 
+      - kod jest bezprzecinkowy 
+      - Kod jest zdegenerowany 
+      - Kod jest niezachodzący 
+      - Uniwersalny 
 
+
+     2. nici 
+      
+      1.  ATGCCTGCCAAA
+      2.  TACGGACGGTTT
+     MRNA AUGCCUGCCAAA
+
+
+     Zadanie:
+      
+      1.   ATGCCGATC 
+      2.   TACGGCTAG
+      MRNA AUGCCGAUC
+
+      Metionina-Prolina-Izoleucyna
+
+  Temat: Ekspresja genów.
+
+    

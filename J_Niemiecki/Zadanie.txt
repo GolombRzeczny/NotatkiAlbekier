@@ -1,0 +1,17 @@
+Język Niemiecki
+
+  Im Restaurant
+  Obrazek:
+    1. 6. Hier eine Salami-Pepperoni-Pizza! - prosze pizza z salami i peperoni.
+    2. 11. Wer bekommpt ein Stück Schokoladenkuchen - dla kogo ciasto czekoladowe
+    3. 12. Danke, der Hamburger ist für mich! - Dziekuje, ten hamburger jest dla mnie 
+    4. 2. Ich möchte einen Tomatensalat mit Bratkartoffeln. - Chciałbym sałatke pomidorową z smażonymi ziemniakami
+    5. 4. Nechmen Sie bitte platz. - Prosze pana o zajecie miejsca 
+    6. 5. Guten tag, was wünschen Sie? - Dzień dobry, Co chciałby pan zamówić
+    7. 8. ich hätte gern einen Schnitzel mit pommes frites. - Chetnie zjadł bym kotlet z frytkami 
+    8. 3. Hallo, für wen sind der Hamburger und die Cola? - Dla kogo ten burger i kola
+    9. 7. Guten abend, was möchten Sie essen? - Dobry wieczór co by chciał pan zjeść 
+    10. 1. Vorsicht! Vorsiht! hier kommen Fleish, pommes und Gemüse! - Uwaga uwaga idzie ryba ziemniaki i ważywa
+    11. 10. Eine tasse Cappuccino! - Jedna filiżanka Cappuccino
+    12. 9. Mist! der koch wird bestimmt sauer! - Kurcze! kucharz bedzie zły
+
