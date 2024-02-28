@@ -36,4 +36,56 @@ Geografia
         - Rozwój przemysłu 
         - rozwój miast 
         - dostepność usług 
+  Temat: Migracje 
+    
+  Temat: Rynek pracy w Polsce 
+    
+    1. aktywność zawodowa polaków.
+      a) Grupy ekonomiczne:
+        
+        - wiek przedproduktywny (do 18 roku życia)
+        - wiek produkcyjny (od 18 do 60 roku życia)
+        - wiek poprodukcyjny (po 60 roku życia)
+
+      obserwacje z wykresu jeden:
+        
+        a) w 1990 była baradzo duża grupa osób w wieku przedprodukcyjny i mała grupa ludzi w wieku poprodukcyjnym (młode społeczeństwo).
+        b) w 2019 była duża grupa osób poprodukcyjnych natomiast jest niepokojąco mała grupa osób przedprodukcyjnych (stare społęczeństwo).
+
+    2. współczynnik aktywności zawodowej określa procentowy udział zatrudnionych na podobnym poziomie
+      
+      a) 2019 roku współczynnik ten wynosił 56.2%:
+        
+        - Mężczyzni 65%
+        - Kobiety 48%
+
+    3. struktura zatrudnienia w polsce według sektorów gospodarki narodowej
+      
+      1950r. ronictwo 59%, przemysł 21%, usługi 20%
+      2005r. rolnictwo 18%, przemysl 26%, usługi 56%
+      2019r. rolnictwo 9%, przemysl 27%, uługi 64%
+
+      Wnioski:
+
+        Na przestrzenni lat wzrosło zapotrzebowanie na usługi i na przemysł i spadło zapotrzebowanie na rolnictwo.
+
+    4. Struktura zatrudnienia według wojewódstw 
+      
+      a) WOjewódstwa o najwyższym zatrudnieniu w rolnictwie 
+        
+        - Podlaskie 
+        - Lubelskie 
+        - Świetokrzyskie 
+
+      b) wojewódstwa o najwyższym zatrudnieniu w przemyśł
+
+        - Lubuskie 
+        - Śląskie 
+        - Opolskie 
+
+      c) Wojewódstwo o najwyższym zatrudnieniu w usługach 
+
+        - Dolnośląskie 
+        - Mazowieckie 
+        - Pomorskie
 

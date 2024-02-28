@@ -1,0 +1,63 @@
+Chemia
+
+  Temat: Budowa, podział i struktury białek
+
+    1. Co to są białka? 
+      - Białka to naturalne polimery zbudowane z łańcuchów polipeptydowych połączonych wiązaniami peptydowymi.
+      - Białka mogą powstawać z 20 aminokwasów białkowych w wyniku reakcji kondensacji.
+    2. Podział białek.
+      a) Ze wzgledu na skład łańcucha polipeptydowego:
+        - proste
+        - złożone
+      b) budowę:
+        - Fibrylarne (włókienkowe) właściwości: trudno rozpuszczalne w wodzie; cząsteczki wydłużone, niciste; wystpują np. w skórze i ścięgnach.
+        - globularne (kłębuszkowe) właściwości: rozpuszczalne w wodzie; cząsteczki zwarte, kuliste; występują np. w płynach ustrojowych.
+    3. Budowa białek. 
+      - Cząsteczki są zbudowane z węgla, tlenu, wodoru, azotu i siarki. w niektórych białkach wystepują też jony, np. żelaza, cynku, magnezu i innych pierwiastków.
+    4. Struktury białek. - Sekwencję w jakiej aminokwasy są z sobą połączone. 
+      
+      a) Struktura pierwszorzędowa - struktura nas informuje w jaki sposób atomy są połączone wiązaniami kowalencyjnymi
+      b) Struktura drugorzędowa:
+        alfa - powstaje w wyniku skrecenia się łańcuchów wokół osi. przyjmuje kształ linii śrubowej.
+        beta - dwa równolegle ułożone łańcuchy są stabilizowane wiązaniami wodorowymi. całość upodabnia się do pofałdowanej kartki papieru.
+      c) Trzeciorzędowa - to położenie poszczególnych odcinków łańcucha polipeptydowego względem siebie w przestrzenii.
+      d) Czwartorzędowa - powstaje w wyniku wzajemnego odziaływania ze sobą skręconych łańcuchów  polipeptydowych.
+
+  Temat: Białka - Reakcje charakterystyczne 
+    
+    Doświadczenie 1.
+    Badanie działania różnych substancji i wysokiej temperatury na rostwór białka.
+
+      Obserwacje: Białko wytrąca osad po dodaniu substancji 
+
+
+      Wnioski: Białko reguje z substancjami
+
+    Doświadcznie 2.
+    Wykrywanie wiązań peptydowych w białku - rekcje biuretowe 
+      
+      schemat:
+
+
+      Obserwacje:
+
+
+      Wnioski:
+
+    Doświadczenie 3.
+    Wykrywanie białka - reakcja ksantoproteinowa 
+      
+      schemat:
+
+
+      Obserwacje:
+
+
+      Wnioski:
+
+
+    1. Pojęcia:
+      Koagulacja - 
+      Wysalanie  -
+      Denaturacja -
+      Peptyzacja -

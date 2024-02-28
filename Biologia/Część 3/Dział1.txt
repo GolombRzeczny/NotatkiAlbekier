@@ -34,4 +34,15 @@ Biologia
 
   Temat: Ekspresja genów.
 
+  Temat: Powtórzenie wiadomości 
     
+ DNA   AAA TCG ATA ACG CCC GTA TTT 
+ RNA   UUU AGC UAU UGC GGG CAU AAA 
+  
+  Fenyloaalanina, Seryna, Tyrozyna, Cystina, Glicyna, Histydyna, Lizyna 
+
+  AUG GCC AGU GGG AAA GUG UGA 
+
+  TAC CGG TCA CCC TTT CAC ACT 
+    
+
