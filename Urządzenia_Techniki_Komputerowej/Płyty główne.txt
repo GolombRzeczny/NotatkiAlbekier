@@ -1,0 +1,16 @@
+UTK
+  
+  Temat: Rodzaje płyt głównych 
+    
+    1. Co to jest płyta główna - urządzenie łącząnce wszystkie pozostałe komponety, zapewniąca komunikacje pomię
+    2. Z czego sie składa:
+      - Mostek północny
+      - Mostek południowy
+    3. Typy:
+      
+      - ATX
+      - Micro ATX 
+      - ITX 
+      - WTX 
+      - BTX 
+
