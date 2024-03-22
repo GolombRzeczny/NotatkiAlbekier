@@ -176,9 +176,12 @@ Chemia
     1. Disacharydy, nazywane dwucukrami, to związki organiczne,
        których cząsteczki są utworzone w wyniku połączenia się dwóch cząsteczek monosacharydów.
 
-    2. Przkłady:
+    2. Przykłady:
       
       - Sacharoza (Glukoza i fruktoza)
       - Maltoza (2 glukozy)
 
+    3. Wiązanie glikozydowe - W wyniku reakcji kondensacji, powstaje cząsteczka sacharydu i cząsteczka wody.
+    4. Wzór ogólny disacharydów - Cn(H2O)m 
+    5. wzory disacharydów przedstawia się wzorami hawortha, wzory te tworzymy z wzorów fishera.
 

@@ -1,0 +1,21 @@
+Fizyka
+  
+  Temat: Ten stary zegar...
+    
+    1. ok. 1500 p.n.e - Powstanie iglic kleopatry - rodzaj zegaru słonecznego
+      ok. 630 p.n.e - Zbudowanie zegarów wodnych w Asyrii
+      1275 - W anglii wynaleziono pierwszy mechaniczny zegar 
+      1386 - w Katedrze w Salisbury ukończono jeden z najstarszych zachowanych do dziasiaj zegarów - Nie miał on tarczy, podawał czas wybijając godziny
+      1510 - Peter Henlein w Norymberdze skonstruował pierwszy przenośny zegar.
+      1645 - Edward East skonstruował pierwszy zegar kieszonkowy
+
+    2. Wychwyt dzieli ruch kół na równe przedziały. Zadaniem jego jest zachować równe odstepy czasu w mechanizmie.
+    Wykonuje to za pomocą równomiernych wahaniom w dwie strony.
+
+    3. Zegar na ratuszu oławskim. mechanizm pochodzi z 1718 roku.
+       Zegar na kościele w Minkowicach Oławskich.
+    4. Wielkim problemem był brak precyzyjnych zegarów. bez znajomości czasu nie można było wyznaczyć długości geograficznej 
+    5. Zegar kwarcowy działa na zasadzie zjawiska piezoelektrycznego, którewystępują w krysztale kwarcu.
+      Bateria dostarcza napięcie elektryczne do kwarcu który pod jego wpływem zaczyna drgać z stałą częstotliwoscią 32768 raza na sekunde.
+      Te drgania odbiera rezonanator kwarcowy i przechodzi przez dzielniki częstotliwości. po czym silnik elektryczny przesuwa wskazówke
+      lub czas jest wyświetlany na wyświetlaczu

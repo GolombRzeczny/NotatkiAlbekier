@@ -1,0 +1,24 @@
+Geografia
+  
+  1. Ekwador - Quito 
+  2. Kolumbia - Bogota 
+  3. Brazylia - Brasilia
+  4. Gabon - Gibreville 
+  5. Kongo - Brazzaville
+  6. Demokratyczna republika Konga - Kinszasa
+  7. Uganda - Kampala 
+  8. Kenia - Nairobi 
+  9. Somalia - Mogadiszu
+  10. Indonezja - Dżakarta
+
+  Kąt padania promienii:
+    
+    Równik - 90° 
+    Zwrotnik raka - 66° 33'
+    Zwrotnik koziorosca - 66° 33'
+    Bieguny - 0°
+    Koło podbiegunowe północne - 23° 27'
+    Koło podbiegunowe południowe - 23° 27'
+
+  Oblicz pod jakim kątem świecą promienie słoneczne na szerokości wrocławia 51° 6' 
+  90° - 51° 6' = 38° 54'
