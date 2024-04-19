@@ -185,3 +185,38 @@ Chemia
     4. Wzór ogólny disacharydów - Cn(H2O)m 
     5. wzory disacharydów przedstawia się wzorami hawortha, wzory te tworzymy z wzorów fishera.
 
+
+  Temat: Budowa polisacharydów 
+    
+    Kartkówka 11 kwietnia
+    - Monosacharydy 
+    - polisacharydy 
+    - disacharydy 
+    
+    1. co to są polisacharydy - wielofunkcyjne pochodne weglowodorów, których cząsteczki powstały w wyniku kondensacji
+      wiecej niż 10 cząsteczek monosacharydów. np. Celuloza (C6H10O5)n, gdzie n=10-10000.
+    2. Budowa i wzór ogólny polisacharydów. - cząsteczki polisacharydów zawierają w cząsteczce grupy hydroksylowe -OH 
+      oraz wiązanie O-glikozynowe.
+      
+      wzór ogólny:
+        
+        (C6H10O5)n 
+        n to liczba naturalna 
+    3. Jak jest zbudowana cząsteczka skrobi jest mieszaniną 2 polisacharydów:
+      
+      Amyloza - tworzy spiralnie zwinięty łańcuch
+      Amylopektyna - Tworzy liczne odgałęzienia boczne 
+
+    4. Jak zbudowana jest cząsteczka celulozy?
+      
+      celuloza jest praktycznie nierozpuszczalna w wodzie 
+
+  
+  Temat: Tworzywa i włókna białkowe 
+    
+    Odróznianie jebwabiu sztucznego od naturalnego 
+
+    Jebwab sztuczny otrzymuje się z celulozy a naturalny zawiera białko \
+
+
+    Jakie polimery wystepują naturalnie w środowisku przyrodniczym: Celuloza, Skrobia, Białka, Kwasy Nukleinowe

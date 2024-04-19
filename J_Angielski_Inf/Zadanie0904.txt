@@ -1,0 +1,16 @@
+Język Angielski w Informatyce 
+  
+
+  z. 7
+    
+    2. 
+      
+      Hello, I'm here to help you with sharing your disk in your local network.
+      firtsly you have to right click on your c:\ drive in windows explorer, then the contex menu should pop up.
+      Click on Properties, new window will open, find sharing tab in this window and click it.
+      Now you have to click advance sharing. Check "Share your folder" box and click 'ok' and then close.
+      Your drive should be now available in your local network.
+
+
+
+      
