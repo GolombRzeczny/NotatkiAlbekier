@@ -18,4 +18,38 @@ Jezyk angielski
             40-35 dopuszczający 
             34-30 dopuszczający -
             29-0 Niedostateczny 
+
+            !!!NIEAKTUALNE!!!
+
+        2. Nowe procentowe kryterium oceniania prac pisemnych 
+
+            100-99 celujący 
+            98-97 bardzo dobry + 
+            96-90 bardzo dobry 
+            89-85 bardzo dobry -
+            84-80 dobry +
+            79-75 dobry 
+            74-68 dobry - 
+            67-60 dostateczny +
+            59-55 dostateczny 
+            54-50 dostateczny -
+            49-47 dopuszczający + 
+            46-43 dopuszczający 
+            42-40 dopuszczający - 
+            39-0 Niedostateczny
+
+        3. Wagi przypisane posczególnym kategorią ocen 
+
+            Test - 8
+            Sprawdzian - 8 
+            Konkurs - 10 
+            Kartkówka - 6
+            Odpowiedź - 6
+            Zadanie domowe - 4
+            Wypracowanie - 5 
+            Praca na lekcji - 5 
+            Aktywnosc - 5 
+            Projekt - 7 
+
             
+
