@@ -1,0 +1,15 @@
+Język Angielski w Informatyce 
+
+  z.9
+    
+    Hi Maurycy,
+      
+    Firstly if you want to transfer files from your camera to computer you have to have computer, digital camera and card reader.
+    So if you have all of those thinks you schould be able to transfer files. First you need to connect card reader to your computer, 
+    after that you need to open software that I attached to this email to transfer files. Now you need to select card reader in the menu.
+    You should be prompted to window where you will have to choose the destination of you files, I suggest using photos folder.
+    After you select the destination you have to click "ok" button and wait. After a while software will transfer all the data,
+    depending of amount of files and the speed of your disk. If you will have any other questions about archaic technology, please ask your grandparents.
+
+    Best regards,
+    XYZ

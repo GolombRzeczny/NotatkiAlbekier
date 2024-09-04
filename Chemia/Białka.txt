@@ -220,3 +220,55 @@ Chemia
 
 
     Jakie polimery wystepują naturalnie w środowisku przyrodniczym: Celuloza, Skrobia, Białka, Kwasy Nukleinowe
+
+    1. Włókna bawełny:
+      
+      zalety:
+        
+        - Przewiewna
+        - Dobrze chłonie wode
+        
+      wady:
+        
+        - Łatwo się gniecie 
+        - Nie jest odporna na długo trwałą wilgoć 
+
+    2. Len:
+      
+      zalety:
+      
+        - Właściwości antybakteryjne
+        - Nieprzepuszczają promieniowania UV
+
+      wady:
+        
+        - Latwo się gniecie
+
+    3. Wełna:
+      
+      zalety:
+        
+        - Dobra izolacja termiczna 
+        - Absorbuje promieniowanie UV 
+        - Zatrzymuje wilgoć 
+
+      wady:
+        
+        - Mało odporna na wysoką temperature 
+        - Pod wpływem promieniowania żółknie 
+
+    4. Jadwab sztuczny:
+      
+      zalety:
+        
+
+
+      wady:
+
+    5. Jebwab naturalny:
+      
+      Zalety:
+        
+        - 
+
+      Wady:
