@@ -1,0 +1,21 @@
+Jezyk angielski
+
+    Subject: Lekcja organizacyjna
+
+        1. Procentowe kryterium ocen dla prac pisemnych
+
+            100-99 celujący 
+            98-97 Bardzo dobry +
+            96-90 Bardzo dobry 
+            89-85 Bardzo dobry -
+            84-80 dobry + 
+            79-75 dobry 
+            74-68 dobry -
+            67-60 dostateczny + 
+            59-55 dostateczny 
+            54-50 dostateczny - 
+            49-41 dopuszczający +
+            40-35 dopuszczający 
+            34-30 dopuszczający -
+            29-0 Niedostateczny 
+            
