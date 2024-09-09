@@ -110,3 +110,5 @@ Jezyk angielski
 
             Sensible - Rozsądny 
             
+        ext 2
+            

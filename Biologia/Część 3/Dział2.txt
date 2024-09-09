@@ -23,3 +23,6 @@ Biologia
       
       Genotyp, Fenotyp, Gen, Allel (wraz z odmianami), Treść I i II prawa mendla, Homozygota i Heterozygota, Dominacja pełna i niepełna, Kodominacja,
       Alllele wielokrotne, Teoria Morgana, geny sprzężone, Crossing over, Ilość chromosomów, Krzyżówka z grupy krwi i koloru kwiatu.
+  Temat: Mutacje Genowe 
+
+  
