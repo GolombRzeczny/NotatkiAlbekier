@@ -1,3 +1,7 @@
 Wiedza o spoleczenstwie 
 
-    temat: 
+    temat: zycie spoleczne 
+
+        1. grupy spoleczne 
+        2. socjalizacja 
+        3. rodzaje grup 
