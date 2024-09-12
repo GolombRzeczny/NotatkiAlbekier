@@ -102,7 +102,7 @@ Jezyk angielski
 
     Subject: 1.1 Clothes and accessories 
 
-        ext 1
+        z 1
 
             Personality: cheerful, determinated, sensitive, sensible
             Appearance: Bald, Slim, tall, wavy hair 
@@ -110,7 +110,7 @@ Jezyk angielski
 
             Sensible - Rozsądny 
             
-        ext 4
+        z 4
 
             1. C 
             2. C 
@@ -121,4 +121,97 @@ Jezyk angielski
             7. A 
             8. C 
         
+        z 5
+
+            1
+            3
+            4
+            6
+            7
+            9
+            10
+            11
+            14
+            16
+
+        z 10 
+
+            1. easy going 
+            2. shallow 
+            3. down to earth 
+            4. vain 
+            5. carefree
+
+        ćw 1 
+
+            1. curly cheerful earing outgoing top
+            2. hoodie relaxed ring serious straight long trainers glasses
+            3. boots cheerful jacket outgoing short sociable watch shirt
+
+            n. Belt
+
+        ćw 2 
+
+            1. selfish
+            2. lazy 
+            3. shy 
+            4. generous 
+            5. miserable
+            6. sensible 
+            7. straight 
+            8. dark 
+            9. handsome  
+
         
+    Subject: 1.2 dynamic and state verbs
+
+        1. Dynamic verbs - usually describe actions we can take or things that happen 
+        2. Stative verbs - usually refer to a state or condition which is not changing or is not likely to change
+
+        wyjątki:
+            - Think:
+                - state-  i think this garden is beautiful 
+                - dynamic- I'm thinking about buying a house 
+
+            - mind:
+                - state- I don't mind coming to work a little bit earlier 
+                - dynamic- I was minding my own business when he came to me 
+
+            - have:
+                - state- i have an older sister 
+                - dynamic- I'm having a small party on Friday 
+
+            - small: 
+                - state- The rooms smells like roses 
+                - dynamic- I'm smelling flowers 
+            
+            - See:
+                - state- Do you see what's happening 
+                - dynamic- I'm seeing a psychiatrist 
+
+            - be:
+                - state- i am a doctor 
+                - dynamic- Adam is being very
+
+            - taste:
+                - state- This cake tastes delicious 
+                - dynamic- I'm tasting the soup 
+
+            - weight:
+                - state- This bag weight 20kg
+                - dynamic- I'm waititimng bags 
+
+            - feel:
+                - state- I feel it's not the best idea 
+                - dynamic- I'm feeling dizzy 
+
+            - hear:
+                - state- I hear a noise 
+                - dynamic- I'm hearing voices 
+            
+            - admire:
+                - state- i admire her 
+                - dynamic- I'm admiring this painting
+    
+        3. Czasowniki statyczne opisują: Uczucia, Zmysly, myslenie i posiadanie 
+        4. Czasowniki dynamiczne opisują: Ruch, wykonywanie czynnosci,

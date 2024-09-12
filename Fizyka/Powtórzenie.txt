@@ -1,0 +1,10 @@
+Fizyka
+
+    Temat: Powtórzenie
+
+        1. Termodynamika- przyrost temperatury wody jest wprost prorcjonalny do iloci popranego przez nią ciepla.
+        2. Stany skupienia - Staly(Diament), ciekly(Etanol), gazowy(Alcohol vapor).
+        3. Energia wewnętrzna: Zmianny energii kinetycznej i potencjalną 
+        4. Cieplo wlasciwe dla wody = 4200 J/kgK lub kgC 
+        5. Drgania i fale.
+        6. Interferencja, dyfrakcja, polaryzacja.
