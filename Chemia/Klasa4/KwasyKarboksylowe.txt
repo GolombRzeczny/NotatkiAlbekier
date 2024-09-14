@@ -1,0 +1,50 @@
+Chemia 
+
+    temat: budowa i nazewnictwo kawasow karboksylowych 
+
+        1. Przypomnienie wiadomosci o zwiazkach jednofunkcyjnych 
+            R - grupa funkcyjna 
+            
+            Weglowodory R - OH 
+            CH3 - OH metanol 
+            C2H5 - OH etanol 
+            C3H7 - OH Propanol
+
+            CH3OH + NA --> CH3ONA + 1/2h2 
+            CH3OH + HCl --> CH3Cl + H2O 
+
+            Aldechydy 
+
+            R - CHO 
+
+            HCHO - Metanal
+            CH3CHO - Etanal 
+            CH3CH2CHO - Propanal 
+
+        2. Próba Tollensa, Próba Trommera 
+
+            - Ag2O 
+
+            - Cu(OH)2 
+
+            HCHO + Ag2O --> HCOOH + 2Ag
+
+            HCHO + 2Cu(OH)2 --> HCOOH + Cu2O + 2H2O 
+
+        3. Budowa i nazewnictwo kwasów karboksylowych 
+
+            R - COOH 
+
+            HCOOH - Kwas metanowy, Kwas mrówkowy 
+            CH3COOH - Kwas etanowy, kwas Octowy 
+            CH3CH2COOH - Kwas propanowy, Kwas propionowy 
+            CH3CH2CH2COOH - Kwas Butanowy, Kwas maslowy 
+            CH3CH2CH2CH2COOH - Kwas Pentanowy, Kwas Walerianowy 
+
+        4. Szereg Homologiczny 
+
+            CnH2n+1COOH 
+            N = liczba wodoru 
+
+
+

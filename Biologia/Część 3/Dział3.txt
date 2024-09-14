@@ -1,5 +1,35 @@
 Biologia
 
-  Temat:  Biotechnologia 
+  Temat: Biotechnologia
 
-    
+    1. Biotechnologia dzieli się na tradycyjna i molekularna. Wykozystywanie zywych organizmow do naszych potrzeb.
+
+      - Tradycyjna - wykozystuje organizmy w ich obecnym stanie - Przyklad: Wykozystujemy drozdze w piwie 
+
+      - Molekularrna - zmieniamy genetycznie organizmy - przyklad: modyfkujemy przenicce by zawierala wiecej cukru 
+
+    2. Koncerny farmaceutyczne:
+
+      - Biotechnologia tradycyjna:
+
+        - Antybiotyki 
+        - Surowice 
+
+    3. Rolnictwo i ochrona srodowiska:
+
+      - Biotechnologia tradycyjna:
+
+        - Mikoryza 
+        - Ekologiczna ochrona roslin 
+        - Kompost 
+        - Biogaz
+
+    4. Spozywczy:
+
+      - Biotechnologia tradycyjna:
+
+        - Alkochol 
+        - Kiszenie 
+        - Jogurty, Sery, Kefiry itd 
+        - Drozdze 
+         
