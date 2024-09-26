@@ -1,0 +1,11 @@
+Fizyka 
+
+    Temat: Ruch jednostajny 
+
+        1. ruch jednostajny prostoliniowy - ruch, którego torem jest linia prosta, a cialo w jednakowych odcinkach czasu pokonuje taka sama droge.
+
+            z1
+
+            wyznacz wartosc predkosci wiedzac ze:
+        2. ruch jednostajny prostoliniowy charakteryzuje sie stala wartoscia predkosc (V=const.) która nazywana jest szybkoscia.
+        

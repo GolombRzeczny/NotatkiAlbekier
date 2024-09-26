@@ -23,4 +23,29 @@ Jezyk niemiecki
             1 h c a
             2 f d 
             3 g e c i
+
+    Thema: Abstecher nach Osterreich 
+
+         czas prateritum lub imperfekt 
+         odmiana sein,
+
+            ich war 
+            du warst
+            er sie es war 
+            wir waren 
+            ihr wart 
+            sie Sie waren 
+
+        czas Partizip perfekt 
+
+            ich habe gemacht 
+            du habst gemach 
+            <...> 
+
+        Czasowniki: 
+
+            helfen - pomagać -> half -> geholfen (h)
+            trinken - pić -> trank -> getrunken (h)
+            spreche - mówić -> sprach -> gesprochen (h)
+            schreiben - pisać -> schrieb -> geschrieben (h) 
             
