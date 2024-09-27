@@ -32,4 +32,9 @@ Biologia
         - Kiszenie 
         - Jogurty, Sery, Kefiry itd 
         - Drozdze 
-         
+
+    Temat: Podstawowe techniki inzynierii genetycznej 
+
+      1. sekwencjonowanie DNA.
+      2. Reakcja PCR 
+      3. Elektroforeza DNA 

@@ -8,4 +8,10 @@ Wiedza o spoleczenstwie
 
     temat: socjalizacja 
 
-        
+    temat: rodzina 
+
+        1. Prawa i obowiazki rodziny 
+        2. Podstawy prawne 
+        3. Socjalizacja 
+
+              

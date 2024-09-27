@@ -46,5 +46,23 @@ Chemia
             CnH2n+1COOH 
             N = liczba wodoru 
 
+            wraz z wzrostem liczby atomow wegla w szeregu homologicznym kwasow, rosnie temperatura topnienia i wrzenia.
+            maleje aktywnosc i rozpuszczalnosc w wodzie.
+
+        5. Wlasciwosci kwasu octowego:
+
+            a) Fizyczne:
+
+                - Ciecz 
+                - Bezbarwna 
+                - charakterystyczny zapach i smak 
+                - Dobrze rozpuszczalny w wodzie 
+
+            b) Chemiczne:
+
+                - Ulega dysocjacji 
+
+
+            
 
 
