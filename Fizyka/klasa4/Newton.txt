@@ -4,4 +4,31 @@ Fizyka
 
         1. Prawo powszechnego ciązenia 
 
-            
+
+
+
+        Zadanie do konca pazdziernika: ograniczenie efektu szklarniarnego 
+
+    T: Praca 
+
+        W = F*s 
+
+        W - praca [j]
+        F - sila [N]
+        s - droga [m]
+
+        W = 100N * 5m = 500j 
+
+        W = F*s*cos a 
+
+        Jezeli a = 0 lub 180 W=max praca jest bezstratna (lossless)
+
+        dla a = 90 W=0 
+
+        F = 100N
+        r = 200m 
+        a = 60
+
+        W = 100N * 200m * cos a
+        W = 20000 * 1/2 = 10000J 
+        
