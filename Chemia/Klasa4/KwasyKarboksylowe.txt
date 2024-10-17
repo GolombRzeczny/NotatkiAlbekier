@@ -82,4 +82,11 @@ Chemia
         
          
 
-    Temat: 
+    Temat: Estry 
+
+        1. Estry powstają w reakcji estryfikacji, przebiegającej pomiedzy kwasem karboksylowym, a alkocholem w srodowisku kwasowym.
+        CH3COOH + CH3CH2OH --> H2O + CH3COOCH2CH3 
+
+
+        CH3OH + C2H5COOH --> H2O + C2H5COOCH3OH Propatian metylu 
+        C2H5COOH + 
