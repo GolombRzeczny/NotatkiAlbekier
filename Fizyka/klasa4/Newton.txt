@@ -32,3 +32,12 @@ Fizyka
         W = 100N * 200m * cos a
         W = 20000 * 1/2 = 10000J 
         
+    T: Moc 
+
+        Moc - wartosc mocy, przy ktorej praca urzadzenia jest prawidlowa oraz zgodna z normami i zaleceniemi producenta.
+        P = W/t = (F*h)/t 
+        
+        P = 400J / 2s = 200W 
+        P = (F*s)/t 
+
+        
