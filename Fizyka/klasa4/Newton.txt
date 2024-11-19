@@ -40,4 +40,28 @@ Fizyka
         P = 400J / 2s = 200W 
         P = (F*s)/t 
 
+        w jakie sposob mozna scharakteryzowac moc - stosunek wykonanej pracy do czasu w ktorym zostala wykonana 
+        za pomoca jakeigo wzoru oblicza sie moc - P=W/t 
+        Jaka jest jednostka mocy - Watt 
         
+    
+    T: Energia potencjalna grawitacji.
+
+        1. Wzor 
+
+            Ep = m*g*h 
+            m - Masa 
+            g - przyspeszenie ziemskie 
+            h - wysokosc 
+
+            E = mg(h2-h1) wzor na roznice energi potencjalnej w zaleznosci od wysokosci 
+
+
+            E = 0.8 * 10 * 0,7 = 5,6 J 
+
+            E = 0.8 8 10 * (0.7 - 1.5) = -6.4 J 
+            Ek = 6.4 
+            0.8 * v2 = 6.4 
+            v2 = 8 
+            v = √8 
+                                                                                                                                                                                

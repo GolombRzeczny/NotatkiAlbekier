@@ -97,3 +97,52 @@ Chemia
     Temat: Tluszcze 
 
         1. Dzielą sie na naturalne i sztuczne: Naturalne dziela sie na zwierzece i roslinne.
+        2. Tluszcze to estry glicerolu i wyzszych kwasow tluszczowych 
+
+            Glicerol 
+
+                C3H5(OH)3 
+
+
+                CH2-OH
+                |
+                CH-OH 
+                |
+                CH2-OH 
+
+
+            Wyzsze kwasy tluszczowe:
+
+                C17H35COOH - Kwas stearynowy }
+                C15H31COOH - Kwas palmitowy  } Kwasy nasycone 
+            
+                C17H33COOH - Kwas Oleinowy - Kwas nienasycony 
+
+        3. Przykladowy tluszcz( Tristearynian glicerolu ): 
+
+
+            CH2-OH                          CH2-COOC17H35
+            |                               |
+            CH-OH   +   3 C17H35OOH --->    CH-COOC17H35   +    3 H2O 
+            |                               |
+            CH2-OH                          CH2-COOC17H35
+
+        4. Jakim reakcją ulegają tluszcze:
+
+            a) Hydroliza zasadowa tluszczow:
+
+                Rozgrzana mieszanina dynamicznie, intensywnie sie pieni. Oraz pojawia sie zapach mydli 
+
+                Tluszcz <- Smalec <- Staly 
+                ||
+                Ester (Glicerol + Kwas Palmitynowy/Stearynowy)
+
+                CH2-COOC17H35                   CH2-OH
+                |                               |
+                CH-COOC17H35  + 3 KOH --->      CH-OH       +  3 C17H35COOK 
+                |                               |
+                CH2-COOC17H35                   CH2-OH
+
+    Temat: Srodki czystosci. Mechanizm usuwania brudu 
+
+        1. 

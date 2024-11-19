@@ -57,4 +57,56 @@ Geografia
             - Chemiczne 
             - Skalne 
 
-            q
+    Temagt: Uksztaltowanie terenu 
+
+        1. Pasy terenu:
+
+            - Pobrzeza 
+            - Pojezierza 
+            - Niziny 
+            - Wyzyny 
+            - Kotliny 
+            - Góry 
+
+        2. Karpaty - Najwyzsze pasmo: tatry - Najwyzszy szczyt: rysy 2499 
+        2. Żulawy wislane - Najnizszy punkt w polsce 
+
+    Temat: Klimat polski 
+
+        1. Klikat umiarkowany cieply przejsciowy.
+
+        2. Pogoda to chwilowy stan atmosfery, a klimat jest miarą ustalana na podstawie wieloletniej obserwacji pogody 
+
+        3. Polska ma 6 termicznych por roku:
+
+            - Zima 
+            - Przedwiosnie 
+            - Wiosna 
+            - Lato 
+            - Jesien 
+            - Przedzimie
+
+        4. Czynniki astrefowe:
+
+            - Meteorologiczne - Masy powietrze, rozmieszczenie osrodkow barycznych
+            - Niemeteorologiczne - szerokosc geograficzna, polozenie geograficzne, uksztaltowanie powierzchni, pokrycie terenu 
+
+        5. Masy powietrza:
+
+            - PA  - powietrze arktyczne
+            - PPm - Powietrze polarne morskie 
+            - PZm - Powietrze zwrotnikowe morskie 
+            - PZk - Powietrze zwrostnikowe kontynentalne
+            - PPk - Powietrze polarne kontynentalne 
+
+
+        Pytania na kartkowke:
+
+            Czynniki astrefowe 
+            Pory roku 
+            Nazwa klimatu 
+            Nazwy mas powietrza 
+            Pasy rzeźby terenu 
+            Najwyzszy punk w polsce - Rysy 
+            Najnizszy punk w polsce - Zulawy wislane 
+            
