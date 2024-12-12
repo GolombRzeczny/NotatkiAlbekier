@@ -64,4 +64,22 @@ Fizyka
             0.8 * v2 = 6.4 
             v2 = 8 
             v = √8 
-                                                                                                                                                                                
+
+
+    T: Maszyny proste 
+
+        1. Dzwignia jednostronna 
+        2. Dzwignia 2 stronna 
+        3. Blok nieruchomy 
+        4. Blok Ruchomy 
+        5. Rownia pochyla 
+        6. Klin 
+        7. Sruba 
+
+
+    Temat: Wplyw promieniowania na materie i organizmy 
+
+        100 mili Silvetów - Dawka niebezpieczna 
+        5000 mili Silvetów - Dawka smiertelna 
+        
+                                                                                                                                                                     

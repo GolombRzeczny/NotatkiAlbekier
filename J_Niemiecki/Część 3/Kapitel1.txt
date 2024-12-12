@@ -342,3 +342,5 @@ Jezyk niemiecki
 
             Ich fühle mich krank. Ich bin Erkältet. ich habe Schnupfen, Husten und fieber. Mein koph und hals tun mir weh. 
             Ich habe augenschmerzen. Ich kann nicht schlucken. Es ist mir kalt. ich kann nicht atmen.
+
+    
