@@ -170,4 +170,16 @@ Geografia
         2. glebia landsort 459m, srednia glebokosc 52m, wybrzeza zalewowo mierzejowe, plaskie piasczyste 
         3. Wybrzeze skierowe, fierdowo skierowe, zalewowo mierzejowe.
         4. Sąsiedzi baltyku: Polska, Niemcy, Dania, Szwecja, Finlandia, Rosja, Estonia, Lotwa, Litwa.
-        5. Stan srodowiska Baltyku: Bardzo zanieczyszczony (Substancje bilogiczne, Ropo pochodne, Toksyczne). 
+        5. Stan srodowiska Baltyku: Bardzo zanieczyszczony (Substancje bilogiczne, Ropo pochodne, Toksyczne).
+
+
+    Temat: Migracje 
+
+        1. Wzor na przyrost naturalny: urodzenia - zgony = przyrost naturalny 
+        2. wzor na wspolczynnik przyrostu naturalnego: Urodzenia / liczba ludnosci * 1000 = wspolczynnik w promilach 
+        3. Wspólczynnik feminizacji: relacjam iedzy liczba kobiet a liczba mezczyzn 
+        4. Piramida plci i wieku - wykres slupkowy pokazujacy ilosc kobiet i mezczyzn w zaleznosci od wieku 
+        5. Gestosc zaludnienia dla polski w osobach na kilometr kwadratowy 
+        6. Migracja, Emigracja, Imigracja 
+        7. Wzór na przyrost rzeczywisty: przyrost naturalny + wspolczynnik migracji 
+        8. Wspolczynnik przyrostu naturalnego: Przyrost rzeczywisty / liczba ludnosci * 1000 
