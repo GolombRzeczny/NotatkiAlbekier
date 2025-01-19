@@ -164,4 +164,35 @@ Chemia
 
     Temat: Aminy 
 
-    Temat: Związki jednofunkcyjne - powtórzenie wiadomosci  
+    Temat: Związki jednofunkcyjne - powtórzenie wiadomosci 
+
+
+
+
+    Temat: Hydroksykwasy 
+
+        1. Zwiazki wielofunkcyjne zawieraja w swojej budowie conajmniej 2 rozne grupy funkcyjne
+
+        2. Grupy funkcyjne i wzor ogolny 
+
+            -OH  -COOH
+
+            (HO)m - R - (COOH)n 
+
+        3. Przyklad:
+
+            CH3-CH-COOH
+                |           Kwas 2-hydroksypropanowy 
+                OH 
+
+
+                     COOH
+                     |
+            HOOC-CH2-C-CH2-COOH     Kwas 2-Hydroksy-1,2,3-propanotrikarboksylowy 
+                     |
+                     OH 
+
+
+        4. Hydroksykwasy ulegaja takim samym reakcja jak alkochole i kwasy. Miedzy innymi reakcji estryfikacji 
+           
+
