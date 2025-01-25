@@ -177,9 +177,19 @@ Geografia
 
         1. Wzor na przyrost naturalny: urodzenia - zgony = przyrost naturalny 
         2. wzor na wspolczynnik przyrostu naturalnego: Urodzenia / liczba ludnosci * 1000 = wspolczynnik w promilach 
-        3. Wspólczynnik feminizacji: relacjam iedzy liczba kobiet a liczba mezczyzn 
+        3. Wspólczynnik feminizacji: relacja miedzy liczba kobiet a liczba mezczyzn 
         4. Piramida plci i wieku - wykres slupkowy pokazujacy ilosc kobiet i mezczyzn w zaleznosci od wieku 
         5. Gestosc zaludnienia dla polski w osobach na kilometr kwadratowy 
         6. Migracja, Emigracja, Imigracja 
         7. Wzór na przyrost rzeczywisty: przyrost naturalny + wspolczynnik migracji 
         8. Wspolczynnik przyrostu naturalnego: Przyrost rzeczywisty / liczba ludnosci * 1000 
+
+
+
+    Temat: Rynek pracy i Urbanizacja 
+
+        1. Stopa bezrobocia - Stosunek bezrobotnych zarejestrowanych do osob aktywnych zawodowo - w polsce uznaje sie wartosc 5%.
+        Niski procent bezrobocia to ponizej 4%
+
+        2. Wiek przedprodukcyjny do 18 lat, produkcyjny 18-60/65 lat, poprodukcyjny 60/65+ 
+        3. 

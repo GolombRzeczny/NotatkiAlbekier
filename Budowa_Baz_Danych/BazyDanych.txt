@@ -1,0 +1,24 @@
+Bazy danych
+
+    Bazy danych - Bazy danych to zorganizowane zbiory danych, które są przechowywane i zarządzane w taki sposób,
+    aby umożliwiać łatwy dostęp, zarządzanie i aktualizację tych danych.
+    Służą one do przechowywania informacji w uporządkowany sposób, 
+    co pozwala na efektywne wyszukiwanie i modyfikowanie danych. Bazy danych są używane w różnych aplikacjach, 
+    od prostych systemów zarządzania danymi po kompleksowe systemy zarządzania przedsiębiorstwem.
+
+    System zarządzania bazą danych (DBMS) to oprogramowanie, które umożliwia tworzenie, 
+    zarządzanie i manipulowanie danymi w bazach danych. DBMS zapewnia interfejs między użytkownikami a bazą danych, 
+    umożliwiając przechowywanie, pobieranie, aktualizację oraz usuwanie danych w zorganizowany i bezpieczny sposób. 
+    Przykłady DBMS to MySQL, PostgreSQL, Oracle i Microsoft SQL Server.
+
+    Encja - Obiekt do którego przypisujemy atrybuty - Konferencja (temat, data, organizator).
+
+    Wlasciwosci baz danych:
+
+        - Tworzenie struktur baz danych 
+        - Wykonywanie operacji CRUD (Create, Read, Update, Delete)
+        - Obsluga zapytan (Selekcjonowanie danych)
+        - Generowanie raportow i zestawien
+        - Administracja bazą danych 
+
+    

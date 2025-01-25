@@ -82,4 +82,17 @@ Fizyka
         100 mili Silvetów - Dawka niebezpieczna 
         5000 mili Silvetów - Dawka smiertelna 
         
-                                                                                                                                                                     
+
+    
+    Temat: Cieplo wlasciwe 
+
+        1. 100g, od 20C do 100C, 2000J, sz: Cieplo wlasciwe 
+
+
+        2. Woda, 20C do 100C, 2MJ, sz: Masa wody 
+
+
+        3. Żelazo, wymiary 20cm x 10cm x 5cm, 20 do 1540C. sz: Energia 
+
+
+        4. powietrze, 5m x 4m x 3,5cm, 0 do 20, sz: energia 
