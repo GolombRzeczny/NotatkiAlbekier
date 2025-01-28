@@ -21,4 +21,12 @@ Bazy danych
         - Generowanie raportow i zestawien
         - Administracja bazą danych 
 
-    
+      
+    Modele Baz danych dzielimy na: Konceptualny, Implementacyjny, Fizyczny
+
+      
+    Projektowanie relacyjnej bazy danych przebiega od modelu koncetualnego do fizycznego
+
+
+
+
