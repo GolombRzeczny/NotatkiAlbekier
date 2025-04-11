@@ -193,6 +193,62 @@ Chemia
                      OH 
 
 
-        4. Hydroksykwasy ulegaja takim samym reakcja jak alkochole i kwasy. Miedzy innymi reakcji estryfikacji 
+        4. Hydroksykwasy ulegaja takim samym reakcja jak alkochole i kwasy.
+        Miedzy innymi reakcji estryfikacji 
+
+
+    Temat: Aminokwasy Budowa i Właściwości 
+        
+        CH2-COOH
+        |         Kwas Aminoetanowy - Glicyna
+        NH2
+
+
+        CH3-CH-COOH
+          |       Kwas 2-Aminopropanowy - Alanina
+          NH2 
+
+
+        CH2-CH2-COOH
+        |         Kwas 3-Aminopropanowy 
+        NH2
+
+        
+        2-aminokwasy są również nazywane Aminokwasami Alfa. Tworzą one białka 
+
+        
+
+
+
+        Badanie Właściwości kwasu Aminoetanowego:
+          
+
+            - Bezbarwny
+            - Bezwonny 
+            - Substancja Krystaliczna 
+            - Dobrze rozpuszczalna w wodzie 
+            - Odczyn obojętny
+            - Reaguje z zasadami 
+            - Reaguje z Kwasami
            
+
+
+        CH2-COOH + HCl --> CH2-COOH
+        |                  |
+        NH2                NH3Cl
+
+
+
+        CH2-COOH + NaOH --> CH2-COONa + H2O
+        |                   |
+        NH2                 NH2
+
+
+        Aminokwasy mają charakter Amfoteryczny ponieważ reagują zarówno kwasami jak z zasadami.
+
+
+
+
+
+
 
