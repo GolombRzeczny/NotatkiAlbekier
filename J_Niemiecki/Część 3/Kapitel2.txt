@@ -295,5 +295,56 @@ wohin?  Akk   den die das die
         D     Dem  Der  Dem  Den + en 
         Akk   Den  Die  Das  Die 
 
-          
+
+
+
+
+
+
+
+
+        !!!Das Wetter spielt verruckt!!!
+
+
+
+
+    Temat: Rund um das Jahr - Wokół roku 
+
+        Rund - okrągłe
+        das Wetter - pogoda
+        Wie ist das wetter heute - jaka jest pogoda dzisiaj 
+        Welche Jahrenzeit ist das - która jest pora roku 
+        die jahrenzeiten - pory roku 
+        der Fruhling 
+        der Sommer 
+        der Herbst 
+        der Winter 
+        
+        der {1-19} - te 
+        der {20-...} - ste 
+
+        Wyjątki: 
+        1 - erste
+        3 - dritte 
+        8 - achte 
+
+
+        am {1-19} - ten 
+        am {20-...} - sten 
+
+        am ersten 
+        am dritten 
+        am achten 
+
+        
+
+
+
+
+
+
+
+
+
+
 
