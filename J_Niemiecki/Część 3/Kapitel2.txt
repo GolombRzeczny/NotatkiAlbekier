@@ -221,6 +221,45 @@ wohin?  Akk   den die das die
 
     Temat: Kleidung fur jedes wetter
 
+    die Mutze - czapka
+
+    die Jacke - kurtka 
+
+    die Handshuhe - rekawiczki 
+
+    die Hose - spodnie 
+
+    der pullover - sweter 
+
+    die Schuhe - buty 
+
+    das T-Shirt - koszulka na krótki rekaw 
+
+    der Mantel - Płaszcz 
+
+    der Schal - szalik 
+
+    die Jeans - dżinsy 
+
+    das Hemd - Koszula 
+
+    der Rock - spódnica 
+
+    das Kleid - Sukienka 
+
+    das Sweatshirt, der Sportpullover - bluza 
+
+    die Bluze - bluzka 
+
+    der Anzug - Ubranie/Garnitur 
+
+    der Sportanzug - ubranie sportowe   
+    
+    der Badeanzug - strój kąpielowy 
+
+    der Schlafanzug - piżama 
+
+    der Bh - Stanik 
 
 
     Nominativ
@@ -234,6 +273,10 @@ wohin?  Akk   den die das die
     Gepunktet - w kropki 
 
     Gestreift - w paski 
+
+    Das Ledder - skurzane 
+
+
 
 
     Eng - obcisłe 
@@ -378,6 +421,12 @@ wohin?  Akk   den die das die
                 Warum magst du dem Sommer? 
                 Es ist warm und sonnig. Ich fahre ans meer 
 
+    
+
+
+    Thema: Kleidung fur jedes Wetter 
+
+        
 
 
         
