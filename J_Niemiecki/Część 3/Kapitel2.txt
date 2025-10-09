@@ -432,7 +432,24 @@ wohin?  Akk   den die das die
         
 
 
+    Theme: Wetterlage in Europa 
+  
+        Steigen - wzrasta
+        Sinken - spada 
+        Die Temperatur sinkt auf - temperatura spada 
 
+        Dicht - gęste 
+        Schwach - słaby 
+        
+
+        Was machen wir am wochenende? 
+        
+        Es schneit. Wir konnen ski fahren 
+        Es regnet. Wir konnen spacieren gehen 
+        Es ist Windig. Wir konnen badminton spielen 
+        Es ist sonnig. Wir konnen computer spielen
+
+        Anzielen - ubierać 
 
 
 

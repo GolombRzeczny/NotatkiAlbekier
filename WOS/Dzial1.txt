@@ -95,18 +95,30 @@ Wiedza o spoleczenstwie
        6. Do końca rozdziału 7
        
 
-    Temat: Współczesne szacunki miedzynarodowe 
+    {
+
+      Temat: Współczesne szacunki miedzynarodowe 
 
     
-    Temat: System Jałtański 
+      Temat: System Jałtański 
 
     
-    Temat: Globalny układ sił 
+      Temat: Globalny układ sił 
 
       
-      1. Kwestie militarne 
-      2. Kwestie polityczne 
-      3. Kwestie gospodarcze 
+        1. Kwestie militarne 
+        2. Kwestie polityczne 
+        3. Kwestie gospodarcze 
+    
+    } Kartkówka na 09.10.2025
+    
+
+    Temat: Konflity na świecię 
+
+      1. Przyczyny 
+      2. skutki 
+      3. Wpływ na ludzkość 
+
 
 
 
